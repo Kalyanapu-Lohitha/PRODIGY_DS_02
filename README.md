@@ -6,4 +6,4 @@ TASK 02: Perform data cleaning and exploratory data analysis (EDA) on a dataset 
 
 DATA SET: https://www.kaggle.com/c/titanic/data
 
-This repository consists csv files of titanic data set and the python scrip that shows the relationships between variables and plots that represent the trends in the data.
+This repository consists csv files of titanic data set and the python script that shows the relationships between variables and plots that represent the trends in the data.
